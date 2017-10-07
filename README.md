@@ -1,8 +1,8 @@
 # exercicios
 Repositório para exercícios para estudo.
 
-A estrutura das pastas se dá como o seguinte esquema:
-[nome.da.disciplina]/[assunto]/[exercicio]
+Organização geral:
+[nome.da.disciplina]/[assunto.dos.exercicios]/[exercicio]
 
-Pode-se também, encontrar projetos inteiros aqui, que então estão guardados de forma semelhante à estrutura geral das pastas, assim:
-[disciplina]/projetos/[NomeDoProjeto]
+Organização de pacotes:
+[nome.da.disciplina]/[nome_do_pacote]/
