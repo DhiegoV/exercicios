@@ -1,5 +1,5 @@
 
-from No import No
+from ..util.No import No
 
 class ListaEncadeada:
 

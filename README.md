@@ -2,7 +2,7 @@
 Repositório para exercícios para estudo.
 
 Organização geral:
-[nome.da.disciplina]/[assunto.dos.exercicios]/[exercicio]
+[nome_da_disciplina]/[assunto_dos_exercicios]/[exercicio]
 
 Organização de pacotes:
-[nome.da.disciplina]/[nome_do_pacote]/
+[nome_da_disciplina]/[nome_do_pacote]/

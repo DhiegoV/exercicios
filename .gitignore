@@ -1,6 +1,6 @@
 
-#ignore arquivos de configuração do PyCharm
+# ignore arquivos de configuração do PyCharm
 .idea/
 
-#ignore arquivos compilados
+# ignore arquivos compilados
 __pycache__/
