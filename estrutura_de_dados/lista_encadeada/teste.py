@@ -1,4 +1,5 @@
-from ListaEncadeada import ListaEncadeada
+
+from estrutura_de_dados.lista_encadeada.ListaEncadeada import ListaEncadeada
 
 lista = ListaEncadeada()
 

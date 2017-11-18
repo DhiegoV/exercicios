@@ -1,5 +1,6 @@
 
-from ..util.No import No
+from estrutura_de_dados.util.No import No
+
 
 class ListaEncadeada:
 
